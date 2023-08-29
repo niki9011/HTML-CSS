@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+
+article h1{
+    font: serif;
+    font-family: Sentinel A, Sentinel B, Georgia, Times New Roman, Times, serif;
+    width: 400px;
+    line-height: 1.15;
+    color: #747474;
+}   
+
+article span{
+    font: Graphik Semibold Web, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-style: oblique;
+    width: 600;
+    font-size: 16px;
+    line-height: 1.46;
+    color: #5c5a5a;
+}
+
+
+
+article span {
+    font-family: Graphik Semibold Web, Open Sans, Helvetica Neue, Helvetica, Ari;
+    font-style: oblique;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.46;
+    color: #5c5a5a;
+}
+
+article p{
+    font-family: Graphik Regular Web, Helvetica Neue, Helvetica, Arial, sans-serif;
+    width: 400;
+    font-size: 16px;
+    line-height: 1.46;
+    color: #5c5a5a;
+
+}

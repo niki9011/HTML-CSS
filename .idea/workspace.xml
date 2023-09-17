@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e41faffc-a602-4553-9408-1ebcb16814a4" name="Changes" comment="add 11_Create-Typography-CSS and automatic alignment tasks" />
+    <list default="true" id="e41faffc-a602-4553-9408-1ebcb16814a4" name="Changes" comment="add 01-08 tasks">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,19 +24,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,6 +52,13 @@
       <workItem from="1693433985005" duration="667000" />
       <workItem from="1693512165762" duration="54000" />
       <workItem from="1693518316850" duration="394000" />
+      <workItem from="1694119562726" duration="1011000" />
+      <workItem from="1694210133183" duration="47000" />
+      <workItem from="1694294189925" duration="706000" />
+      <workItem from="1694467188463" duration="171000" />
+      <workItem from="1694507532181" duration="126000" />
+      <workItem from="1694507739189" duration="206000" />
+      <workItem from="1694897799038" duration="179000" />
     </task>
     <task id="LOCAL-00001" summary="add 1-3 tasks">
       <option name="closed" value="true" />
@@ -123,7 +132,119 @@
       <option name="project" value="LOCAL" />
       <updated>1693518391006</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add 01_Box-Model-Container">
+      <option name="closed" value="true" />
+      <created>1694119660251</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694119660251</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add 01_Box-Model-Container">
+      <option name="closed" value="true" />
+      <created>1694119706510</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694119706510</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add 01_Box-Model-Container">
+      <option name="closed" value="true" />
+      <created>1694119714043</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694119714043</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add 01_Box-Model-Container">
+      <option name="closed" value="true" />
+      <created>1694119857163</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694119857163</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add 02_Scrolling-Article">
+      <option name="closed" value="true" />
+      <created>1694121058809</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694121058809</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add 02_Scrolling-Article">
+      <option name="closed" value="true" />
+      <created>1694121062209</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1694121062209</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add 03_Brazil-Coffee">
+      <option name="closed" value="true" />
+      <created>1694210164395</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694210164395</updated>
+    </task>
+    <task id="LOCAL-00017" summary="04_Article, 05-Blog-Article, 06_Navigation-inline-block add tasks">
+      <option name="closed" value="true" />
+      <created>1694294276015</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1694294276015</updated>
+    </task>
+    <task id="LOCAL-00018" summary="08_Photo-gallery-inline-block add">
+      <option name="closed" value="true" />
+      <created>1694467282547</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1694467282547</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add 09_Blog-layout-inline-block">
+      <option name="closed" value="true" />
+      <created>1694507630023</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1694507630023</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add 09_Blog-layout-inline-block">
+      <option name="closed" value="true" />
+      <created>1694507751979</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1694507751980</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add 09_Blog-layout-inline-block">
+      <option name="closed" value="true" />
+      <created>1694507802411</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1694507802411</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add 09_Blog-layout-inline-block">
+      <option name="closed" value="true" />
+      <created>1694507866054</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1694507866054</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add 01-08 tasks">
+      <option name="closed" value="true" />
+      <created>1694897942954</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1694897942954</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +270,13 @@
     <MESSAGE value="09_Icon-Font-Buttons add" />
     <MESSAGE value="10_Icon-Font-List add" />
     <MESSAGE value="add 11_Create-Typography-CSS and automatic alignment tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 11_Create-Typography-CSS and automatic alignment tasks" />
+    <MESSAGE value="add 01_Box-Model-Container" />
+    <MESSAGE value="add 02_Scrolling-Article" />
+    <MESSAGE value="add 03_Brazil-Coffee" />
+    <MESSAGE value="04_Article, 05-Blog-Article, 06_Navigation-inline-block add tasks" />
+    <MESSAGE value="08_Photo-gallery-inline-block add" />
+    <MESSAGE value="add 09_Blog-layout-inline-block" />
+    <MESSAGE value="add 01-08 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 01-08 tasks" />
   </component>
 </project>

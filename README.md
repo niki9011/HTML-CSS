@@ -1,4 +1,5 @@
 # HTML-CSS
+Learning the basics of typography
 
 #Learning the basics of typography
 #Styling websites with CSS

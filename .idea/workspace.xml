@@ -4,7 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e41faffc-a602-4553-9408-1ebcb16814a4" name="Changes" comment="add 0-9 tasks in 03.Typography in CSS-Lab" />
+    <list default="true" id="e41faffc-a602-4553-9408-1ebcb16814a4" name="Changes" comment="add 01-13 tasks in 05.Box-Model&amp;Position-Exercises-Lab-Resources&#10;and remain 06.CSS-Box-Model-Exercise">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/01_Box-Model-Container/box-model-container.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/01_Box-Model-Container/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/02_Scrolling-Article/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/02_Scrolling-Article/scrolling-article.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/02_Scrolling-Article/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/02_Scrolling-Article/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/03_Brazil-Coffee/coffee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/03_Brazil-Coffee/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/03_Brazil-Coffee/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/03_Brazil-Coffee/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/04_Article/article.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/04_Article/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/04_Article/the-minimalists.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/05_Blog-Article/blog-article.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/05_Blog-Article/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/06_Navigation-inline-block/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/06_Navigation-inline-block/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/06_Navigation-inline-block/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/06_Navigation-inline-block/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/07_Make-Your-Own-Website/make-your-olwn-website.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/07_Make-Your-Own-Website/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/08_Photo-gallery-inline-block/images/picture1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/08_Photo-gallery-inline-block/images/picture2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/08_Photo-gallery-inline-block/images/picture3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/08_Photo-gallery-inline-block/images/picture4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/08_Photo-gallery-inline-block/images/picture5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/08_Photo-gallery-inline-block/images/picture6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/08_Photo-gallery-inline-block/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/08_Photo-gallery-inline-block/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/08_Photo-gallery-inline-block/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/09_Blog-layout-inline-block/images/picture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/09_Blog-layout-inline-block/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/09_Blog-layout-inline-block/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/09_Blog-layout-inline-block/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS-Box-Model-Exercise/09_Blog-layout-inline-block/text.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +118,10 @@
       <workItem from="1694985151738" duration="279000" />
       <workItem from="1695057266491" duration="560000" />
       <workItem from="1695059988095" duration="452000" />
+      <workItem from="1695061589828" duration="46000" />
+      <workItem from="1695202554780" duration="12000" />
+      <workItem from="1695306307432" duration="25000" />
+      <workItem from="1695306351849" duration="254000" />
     </task>
     <task id="LOCAL-00001" summary="add 1-3 tasks">
       <option name="closed" value="true" />
@@ -290,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695060098303</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add 10-12 tasks in 03.Typography in CSS-Lab">
+      <option name="closed" value="true" />
+      <created>1695061615302</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1695061615302</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,6 +375,8 @@
     <MESSAGE value="add 08-18 tasks" />
     <MESSAGE value="update lab and exersice" />
     <MESSAGE value="add 0-9 tasks in 03.Typography in CSS-Lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 0-9 tasks in 03.Typography in CSS-Lab" />
+    <MESSAGE value="add 10-12 tasks in 03.Typography in CSS-Lab" />
+    <MESSAGE value="add 01-13 tasks in 05.Box-Model&amp;Position-Exercises-Lab-Resources&#10;and remain 06.CSS-Box-Model-Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 01-13 tasks in 05.Box-Model&amp;Position-Exercises-Lab-Resources&#10;and remain 06.CSS-Box-Model-Exercise" />
   </component>
 </project>

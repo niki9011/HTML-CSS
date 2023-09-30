@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e41faffc-a602-4553-9408-1ebcb16814a4" name="Changes" comment="change title name on 11_Center-position-and-transform" />
+    <list default="true" id="e41faffc-a602-4553-9408-1ebcb16814a4" name="Changes" comment="add 13, 14, 15 tasks in 06.CSS-Box-Model-Exercise" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +84,7 @@
       <workItem from="1695664263829" duration="68000" />
       <workItem from="1695723918461" duration="43000" />
       <workItem from="1696068827660" duration="665000" />
+      <workItem from="1696074352572" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="add 1-3 tasks">
       <option name="closed" value="true" />
@@ -317,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696068877884</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="add 13, 14, 15 tasks in 06.CSS-Box-Model-Exercise">
+      <option name="closed" value="true" />
+      <created>1696074436500</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1696074436500</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,6 +366,7 @@
     <MESSAGE value="add 06-12 tasks in 07.CSS-Layout-Lab" />
     <MESSAGE value="add 11_Center-position-and-transform" />
     <MESSAGE value="change title name on 11_Center-position-and-transform" />
-    <option name="LAST_COMMIT_MESSAGE" value="change title name on 11_Center-position-and-transform" />
+    <MESSAGE value="add 13, 14, 15 tasks in 06.CSS-Box-Model-Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 13, 14, 15 tasks in 06.CSS-Box-Model-Exercise" />
   </component>
 </project>

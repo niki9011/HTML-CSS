@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e41faffc-a602-4553-9408-1ebcb16814a4" name="Changes" comment="add 12_Navigation in 06.CSS-Box-Model-Exercise" />
+    <list default="true" id="e41faffc-a602-4553-9408-1ebcb16814a4" name="Changes" comment="add 01-03 tasks in 07.Flexbox-Exercise" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +87,7 @@
       <workItem from="1696074352572" duration="105000" />
       <workItem from="1696080794004" duration="135000" />
       <workItem from="1696112581854" duration="46000" />
+      <workItem from="1696194114107" duration="122000" />
     </task>
     <task id="LOCAL-00001" summary="add 1-3 tasks">
       <option name="closed" value="true" />
@@ -352,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696112612313</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="add 01-03 tasks in 07.Flexbox-Exercise">
+      <option name="closed" value="true" />
+      <created>1696194183097</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1696194183097</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,7 +379,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 1-3 tasks" />
     <MESSAGE value="add 04_Buttons-css and 05_Fonts-speciment-Great-Vibes+Raleway" />
     <MESSAGE value="add" />
     <MESSAGE value="add 06_Contrasting-Colors and 07_The-Making-Of-A-CSS-Font" />
@@ -395,6 +403,7 @@
     <MESSAGE value="add 13, 14, 15 tasks in 06.CSS-Box-Model-Exercise" />
     <MESSAGE value="add 16 task in 06.CSS-Box-Model-Exercise" />
     <MESSAGE value="add 12_Navigation in 06.CSS-Box-Model-Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 12_Navigation in 06.CSS-Box-Model-Exercise" />
+    <MESSAGE value="add 01-03 tasks in 07.Flexbox-Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 01-03 tasks in 07.Flexbox-Exercise" />
   </component>
 </project>

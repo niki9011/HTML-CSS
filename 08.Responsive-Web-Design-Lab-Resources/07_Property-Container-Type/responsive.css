@@ -1,0 +1,9 @@
+.card h2 {
+  font-size: 1em;
+}
+
+@media (min-width: 600px) {
+  .post {
+    container-type: inline-size;
+  }
+}

@@ -1,0 +1,10 @@
+@media (min-width: 100px) {
+    body {
+        width: 80vw;
+    }
+
+    img {
+      width: 80vw;
+      height: 70vh;
+    }
+  }

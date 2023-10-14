@@ -1,0 +1,8 @@
+@media screen and (max-width: 600px) {
+    body {
+        background: black;
+        color: white;
+        font-size: 10px;
+    }
+    
+}

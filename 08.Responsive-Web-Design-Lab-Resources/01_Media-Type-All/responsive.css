@@ -1,0 +1,7 @@
+@media (max-width: 600px) {
+    body {
+         font-size: 10px;
+         background-color: rgba(0, 195, 255, 0.543);
+    }
+}
+

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e41faffc-a602-4553-9408-1ebcb16814a4" name="Changes" comment="add 07-11 tasks in 07.Flexbox-Exercise" />
+    <list default="true" id="e41faffc-a602-4553-9408-1ebcb16814a4" name="Changes" comment="add 01-10 tasks in 08.Responsive-Web-Design-Lab-Resources" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,6 +91,7 @@
       <workItem from="1696761451459" duration="95000" />
       <workItem from="1696772575951" duration="39000" />
       <workItem from="1696965435731" duration="80000" />
+      <workItem from="1697287609985" duration="162000" />
     </task>
     <task id="LOCAL-00001" summary="add 1-3 tasks">
       <option name="closed" value="true" />
@@ -388,7 +389,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696965497503</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="add 01-10 tasks in 08.Responsive-Web-Design-Lab-Resources">
+      <option name="closed" value="true" />
+      <created>1697287664981</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1697287664981</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,7 +415,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="08_Font-Awesome-Icons" />
     <MESSAGE value="09_Icon-Font-Buttons add" />
     <MESSAGE value="10_Icon-Font-List add" />
     <MESSAGE value="add 11_Create-Typography-CSS and automatic alignment tasks" />
@@ -431,6 +439,7 @@
     <MESSAGE value="add 04-05 tasks in 07.Flexbox-Exercise" />
     <MESSAGE value="add 06 task in 07.Flexbox-Exercise" />
     <MESSAGE value="add 07-11 tasks in 07.Flexbox-Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 07-11 tasks in 07.Flexbox-Exercise" />
+    <MESSAGE value="add 01-10 tasks in 08.Responsive-Web-Design-Lab-Resources" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 01-10 tasks in 08.Responsive-Web-Design-Lab-Resources" />
   </component>
 </project>

@@ -1,0 +1,57 @@
+body {
+    
+    font-family: Helvetica, sans-serif;
+    background: #f6f8f9;
+    display: flex;
+    color: #273240;
+}
+
+.enterprice {
+    padding: 48px 24px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    max-width: 1080px;
+    margin: 60px auto;
+}
+
+.enterprice .info {
+    width: 40%;
+    padding: 48px 0;
+}
+
+.enterprice .subtitle {
+    font-size: 14px;
+    margin-bottom: 16px;
+    font-weight: normal;
+}
+
+.enterprice .title {
+    font-size: 32px;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+
+.enterprice .desc {
+    margin-bottom: 20px;
+    color: #646f79;
+}
+
+.enterprice .btn {
+    /* all:unset; */
+    border: 1px soldid #273240;
+    padding: 12px 18px ;
+    border-radius: 3px;
+    font-weight: bold;
+}
+.enterprice .btn.tne-primary {
+    border-color: #786eff;
+    background: #786eff;
+    color: white;
+    margin-right: 12px;
+}
+
+.enterprice .img {
+    width: 30%;
+}

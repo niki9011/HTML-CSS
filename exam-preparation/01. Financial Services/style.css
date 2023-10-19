@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@200;300;400&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    font: 16px/1.5 "Popins", sans-serif;
+    
+}
+body {
+    padding: 2em;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+    
+}
+
+.container{
+    max-width: 1200;
+    margin: 0 auto;
+}
+
+.section-header{
+    text-align: center;
+    padding-bottom: 2em;
+}
+
+.section-header h1 span {
+    color: #327dc4;
+}
+.section-content {
+    display: flex;
+    gap: 1.5em;
+}
+
+h2 {
+    color: #000007;
+}
+.section-content article, 
+.section-content article .media {
+    display: block;
+    overflow: hidden;
+    border-radius: 0.7em;
+}
+.section-content article {
+    flex: 1 1 30%;
+    background: #819daf;
+    border-radius: 0.5em;
+    color: black;
+}
+
+.section-content article .entry-content {
+    padding: 1.5em;
+}
+
+.section-content article .entry-content p {
+    margin: 1em 0 0.5em 0;
+}
+
+
+.section-content article .button {
+    margin-top: 1em;
+    color: white;
+    background: #327dc4;
+    text-decoration: none;
+    border: 1px solid #4657c6;
+    display: inline-block;
+    border-radius: 2em;
+    padding: 0.3em 1em;
+    outline: 1px solid white;
+}

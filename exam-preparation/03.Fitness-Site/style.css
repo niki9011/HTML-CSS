@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font: 16px/1.5 PT Sans, sans-serif;
+}
+
+header {
+    color: white;
+    background-image: url(image/fitness-main.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40em;
+    margin-bottom: 2em;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: flex-end;
+    padding: 1em 3em;
+}
+
+header nav ul li {
+    display: block;
+    margin-left: 4em;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+h2 {
+    font-size: 36px;
+    margin-bottom: 1em;
+    letter-spacing: 0.5em;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h3,
+h4,
+h5,
+p {
+    text-align: center;
+}
+
+h4,
+h5 {
+    margin-bottom: 0.5em;
+}
+
+img {
+    display: block;
+    max-width: 20%;
+    margin-bottom: 1em;
+}
+
+section article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer {
+    background-color: #D01919;
+    padding: 0.5em 0;
+    text-align: center;
+}
+
+.top-bar {
+    background-color: #D01919;
+    color: white;
+    padding: 1em 3em;
+}
+
+.top-bar,
+.top-bar ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top-bar ul li {
+    display: block;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.top-bar ul li a {
+    color: white;
+    padding: 0.5em;
+}
+
+.header {
+    text-align: center;
+    padding: 5em;
+}
+
+.header p {
+    max-width: 52ch;
+    margin: 0 auto;
+    padding-bottom: 3em;
+}
+
+.header a {
+    background-color: #D01919;
+    color: white;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border-radius: 0.5em;
+    text-decoration: none;
+}
+
+.welcome {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+.welcome .container {
+    display: flex;
+    padding-top: 1em;
+    padding-bottom: 3em;
+    gap: 10em;
+}
+
+.welcome h4,
+h5 {
+    color: #D01919;
+}
+
+.coaches {
+    background-color: #EFEFEF;
+    padding: 2em 5em;
+}
+
+.coaches .container {
+    display: flex;
+    padding-top: 1em;
+    padding-bottom: 2em;
+    justify-content: space-between;
+}
+
+.coaches img {
+    max-width: 100%;
+    border-radius: 0.3em;
+}
+
+.coaches p {
+    color: #A7A4AA;
+    max-width: 32ch;
+}
+
+h3::after {
+    content: '';
+    display: block;
+    width: 1.5em;
+    height: 2px;
+    background-color: #D01919;
+    margin: 1em auto;
+}

@@ -1,0 +1,75 @@
+body {
+    font-family: Helvetica, sans-serif;
+    line-height: 1.6em;
+    display: flex;
+    color: #273240;
+    max-width: 1200px;
+   
+}
+
+.enterprice {
+    background: #1881b6;
+    padding-right: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    max-width: 1200px;
+    margin-left: 70px;
+    margin-top: 70px;
+    border: 6px solid black;
+    border-radius: 1em;/
+}
+
+.enterprice .info {
+    width: 60%;
+    padding: 50px 50px;
+}
+
+.enterprice .subtitle {
+    color: #031016;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.enterprice .title {
+    color: #eaf4f8;
+    font-size: 41px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    font-weight: normal;
+}
+
+.enterprice .desc {
+    color: #0a4368;
+}
+
+.enterprice .btn {
+    border: 1px soldid #0d4c6c;
+    background: #1881b6;
+    color: #061317;
+    margin:50px;
+    padding: 10px 18px ;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.enterprice .btn.tne-primary {
+    border-radius: 5px;
+    border-color: #4e3451;
+    background: #b6416d;
+    color: #f7dadd;
+    margin-right: 200px;
+}
+
+.enterprice .img {
+    width: 33%;
+    margin-bottom: 6em;
+}
+
+span {
+    margin-right: 1em;
+}
+
+.info .desc {
+    color: #0b3441;
+}

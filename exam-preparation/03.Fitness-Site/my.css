@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font: 16px/1.5 PT Sans, sans-serif;
+}
+
+header {
+    background-image: url(image/fitness-main.jpg);
+    background-position: center -200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 35em;
+    margin-bottom: 2em;
+
+}
+
+.top-bar, .top-bar ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top-bar ul li, .top-bar a  {
+    display: flex;
+    text-decoration: none;
+}
+
+.top-bar ul a {
+    color: white;
+    padding: 0.2em;
+}
+
+.top-bar {
+    background: #D01919;
+    padding: 1em;
+}
+
+.top-bar p {
+    color: white;
+}
+
+
+
+footer {
+    background: #D01919;
+    padding: 0.5em;
+    text-align: center;
+}
+
+.header p {
+    color: white;
+    max-width: 52ch;
+    margin: 0 auto;
+    padding-bottom: 2em;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: flex-end;
+    padding: 1em 3em;
+}
+
+header nav ul li {
+    display: flex;
+    margin-left: 4em;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.header {
+    text-align: center;
+    padding: 5em;
+}
+
+.header h2 {
+    color: white;
+    letter-spacing: 0.1em;
+    font-size: 50px;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+
+
+.welcome article p {
+    max-width: 35ch;
+    margin: 0 auto;
+    text-align: center;
+  
+}
+
+.header a { 
+    color: white;
+    border-radius: 0.3em;
+    background-color: #D01919;
+    text-decoration: none;
+    padding: 0.3em 1em;
+}
+
+.welcome {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+
+.welcome .container {
+  
+    display: flex;
+    padding-top: 1em;
+    padding-bottom: 5em;
+    gap: 10em;
+}
+
+section article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+article img {
+    width: 55px;
+    margin-bottom: 0.5em;
+}
+
+
+.welcome h4 {
+    margin-bottom: 1em;
+    color: #D01919;
+}
+
+h3::after {
+    content: '';
+    display: block;
+    width: 1.3em;
+    height: 3px;
+    background-color: #D01919;
+    margin: 1em auto;
+}
+
+h3 {
+    font-size: 32px;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+
+.coaches {
+    background: #EFEFEF;
+    padding: 0.1em 5em;
+}
+
+.coaches .container {
+    display: flex;
+    padding-top: 1em;
+    padding-bottom: 3em;
+    justify-content: space-between;
+}
+
+
+.coaches img {
+    max-width: 100%;
+    border-radius: 0.3em;
+}
+
+.coaches h5 {
+    color: #D01919;
+}
+
+.coaches p {
+    color: #A7A4AA;
+    text-align: center;
+    max-width: 32ch;
+}
+
+img {
+    display: block;
+    max-width: 20%;
+    margin-bottom: 1em;
+}
+
+.container img {
+    width: 300px; /* Set the desired width for large images */
+    margin-bottom: 2em;
+}

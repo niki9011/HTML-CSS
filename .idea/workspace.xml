@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e41faffc-a602-4553-9408-1ebcb16814a4" name="Changes" comment="exam-preparation add 03.Fitness-Site">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam-preparation/03.Fitness-Site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exam-preparation/03.Fitness-Site/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="e41faffc-a602-4553-9408-1ebcb16814a4" name="Changes" comment="EXAM tasks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/niki9011/PycharmProjects/softuni",
+    "last_opened_file_path": "/home/niki9011/HTML-CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,6 +98,7 @@
       <workItem from="1697747028548" duration="162000" />
       <workItem from="1697799684790" duration="251000" />
       <workItem from="1697887129565" duration="32000" />
+      <workItem from="1698046216823" duration="426000" />
     </task>
     <task id="LOCAL-00001" summary="add 1-3 tasks">
       <option name="closed" value="true" />
@@ -438,7 +436,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697799711788</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="EXAM tasks">
+      <option name="closed" value="true" />
+      <created>1698046278345</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1698046278345</updated>
+    </task>
+    <task id="LOCAL-00044" summary="EXAM tasks">
+      <option name="closed" value="true" />
+      <created>1698046636164</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1698046636164</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,7 +470,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 02_Scrolling-Article" />
     <MESSAGE value="add 03_Brazil-Coffee" />
     <MESSAGE value="04_Article, 05-Blog-Article, 06_Navigation-inline-block add tasks" />
     <MESSAGE value="08_Photo-gallery-inline-block add" />
@@ -481,6 +494,7 @@
     <MESSAGE value="add 01-08 tasks in 10.Working-with-Forms-Lab-Resources" />
     <MESSAGE value="exam-preparation add 01-02 tasks" />
     <MESSAGE value="exam-preparation add 03.Fitness-Site" />
-    <option name="LAST_COMMIT_MESSAGE" value="exam-preparation add 03.Fitness-Site" />
+    <MESSAGE value="EXAM tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXAM tasks" />
   </component>
 </project>

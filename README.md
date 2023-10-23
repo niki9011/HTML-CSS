@@ -13,4 +13,4 @@ Learning the basics of typography,styling websites with CSS,basic knowledge of b
 
 Business Page:
 
-<img src"https://github.com/niki9011/HTML-CSS/blob/main/EXAM/03.Business/screenshot.png"/>
+<img src="https://github.com/niki9011/HTML-CSS/blob/main/EXAM/03.Business/screenshot.png"/>
